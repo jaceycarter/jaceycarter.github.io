@@ -1,37 +1,15 @@
-.starbucks_title {
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content:"";
+    clear: both;
+    display: table;
+  }
 
-    background-color: rgb(9, 134, 9);
-    color: white;
-}
-.index {
-    <style>
-            h1 {
-                color:rgb(248, 97, 190);
-                background-color: rgb(6, 248, 175);
-            }
-            h2 {
-                color:rgb(248, 97, 190) ;
-                background-color: rgb(6, 248, 175);
-            }
-            h3 {
-                color:rgb(248, 97, 190) ;
-                background-color: rgb(6, 248, 175);
-            }
-            ul {
-                background-color: rgb(248, 97, 190);
-                color: rgb(6, 248, 175) ;
-            }
-            ul li:hover {
-                color: whitesmoke;
-                background-color: rgb(195, 154, 243);
-            }
-}
-.special_offers {
-    background-color:rgb(248, 6, 6);
-    color:rgb(212, 182, 201)
 
-}
-.trainer {
-    background-color:orange;
-    outline-color: slateblue;
-}
