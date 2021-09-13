@@ -27,7 +27,6 @@
             }
 }
 .special_offers:hover {
-    backface-visibility: hidden;
     background-color:rgb(248, 6, 6);
     color:rgb(212, 182, 201)
 
