@@ -1,3 +1,27 @@
+body {
+    background-color: rgb(247, 204, 230);
+}
+h1 {
+    background-color: rgb(9, 134, 9);
+    color: white;
+}
+h2 {
+    color: rgb(9, 134, 9);
+}
+
+ol li:hover {
+    background-color: rgb(9, 134, 9);
+    color: white;
+}
+h3 {
+    color: rgb(9, 134, 9);
+}
+
+ul li:hover {
+    color: rgb(9, 134, 9);
+    background-color:white;
+}
+
 .special_offers {
-    background-color: palegreen;
+    background-color: rgb(9, 134, 9);
 }
