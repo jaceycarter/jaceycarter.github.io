@@ -22,6 +22,6 @@ ul li:hover {
     background-color:white;
 }
 
-.special_offers {
+.special_offers:hover {
     background-color: rgb(9, 134, 9);
 }
