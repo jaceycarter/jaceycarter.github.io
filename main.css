@@ -1,8 +1,8 @@
-
- body {
-    @media only screen and (max-width: 600px) ;
-      background-color: rgb(247, 204, 230);
-    }
+@media only screen and (orientation: portrait) {
+    body {
+         background-color: rgb(247, 204, 230);
+       }
+}
 
 a { color: #f3239c; } /* CSS link color */
 .title {
@@ -10,7 +10,9 @@ a { color: #f3239c; } /* CSS link color */
     color: rgb(9, 134, 9);
     border: 3px outset rgb(9, 134, 9);
 }
-
+.photos {
+    border-image: 3px outset rgb(247, 174, 217);
+}
 
 #about {
     background-color: rgb(247, 174, 217) ;
