@@ -1,6 +1,11 @@
-body {
-    background-color: rgb(247, 204, 230);
-}
+@media only screen and (max-width: 600px) 
+{
+    body {
+      background-color: rgb(247, 204, 230);
+    }
+  }
+
+a { color: #f3239c; } /* CSS link color */
 .title {
     background-color: rgb(247, 174, 217);
     color: rgb(9, 134, 9);
