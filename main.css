@@ -37,6 +37,10 @@ ol li:hover {
     border: 3px outset rgb(9, 134, 9) ;
     background-color: rgb(247, 174, 217)
 }
+#program_offers:hover {
+    color: rgb(9, 134, 9);
+    background-color:white;
+}
 h3 {
     color: rgb(9, 134, 9);
     border: 3px outset rgb(9, 134, 9)
@@ -55,6 +59,7 @@ ul li:hover {
 }
 .special_offers:hover {
     background-color: rgb(9, 134, 9);
+    color: white
 }
 #tips {
     background-color: rgb(247, 174, 217);
