@@ -1,9 +1,21 @@
 body {
     background-color: rgb(247, 204, 230);
 }
-h1 {
-    background-color: rgb(9, 134, 9);
-    color: white;
+.title {
+    background-color: rgb(247, 174, 217);
+    color: rgb(9, 134, 9);
+    border: 3px outset rgb(9, 134, 9);
+}
+
+.photos {
+    background-color: rgb(247, 174, 217);
+}
+#about {
+    background-color: rgb(247, 174, 217) ;
+    border: 3px outset rgb(9, 134, 9)
+}
+#bio {
+    color: rgb(9, 134, 9);
 }
 h2 {
     color: rgb(9, 134, 9);
@@ -13,15 +25,37 @@ ol li:hover {
     background-color: rgb(9, 134, 9);
     color: white;
 }
+#offer {
+    color: rgb(9, 134, 9);
+    background-color: rgb(247, 174, 217)
+}
+#program {
+    border: 3px outset rgb(9, 134, 9) ;
+    background-color: rgb(247, 174, 217)
+}
 h3 {
     color: rgb(9, 134, 9);
+    border: 3px outset rgb(9, 134, 9)
 }
-
+ul {
+    border: 3px outset rgb(9, 134, 9)
+}
 ul li:hover {
     color: rgb(9, 134, 9);
     background-color:white;
 }
 
+.plants {
+    border: 3px outset rgb(9, 134, 9) ;
+    background-color: rgb(247, 174, 217)
+}
 .special_offers:hover {
     background-color: rgb(9, 134, 9);
+}
+#tips {
+    background-color: rgb(247, 174, 217);
+}
+#favs {
+    border: 3px outset rgb(9, 134, 9) ;
+    background-color: rgb(247, 174, 217) ;
 }
