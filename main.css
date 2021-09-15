@@ -11,9 +11,7 @@ a { color: #f3239c; } /* CSS link color */
     border: 3px outset rgb(9, 134, 9);
 }
 
-.photos {
-    background-color: rgb(247, 174, 217);
-}
+
 #about {
     background-color: rgb(247, 174, 217) ;
     border: 3px outset rgb(9, 134, 9)
